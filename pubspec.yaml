@@ -30,10 +30,17 @@ dependencies:
   cupertino_icons: ^1.0.2
   animated_bottom_navigation_bar: ^0.3.2
   curved_navigation_bar: ^0.3.7
+  floor: ^1.1.0
+  freezed: ^0.14.2
+  freezed_annotation: ^0.14.2
+  flutter_local_notifications: ^5.0.0+4
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
+  floor_generator: ^1.1.0
+  build_runner: ^2.0.3
+
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
