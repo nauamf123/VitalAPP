@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:vital/DataBase/databasevital.dart';
 import 'Dao/atendimentoDAO.dart';
 import 'Dao/clienteDAO.dart';
-import 'my_app.dart';
 import 'my_homepage.dart';
 
 
